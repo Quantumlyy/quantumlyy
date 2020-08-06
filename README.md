@@ -10,6 +10,7 @@ And many, many more projects that you can find by exploring [`my repositories`]!
 ![Typescript](https://img.shields.io/static/v1?label=TypeScript&message=3.9&color=007ACC&style=for-the-badge&logo=typescript)
 ![CSharp](https://img.shields.io/static/v1?label=C%23&message=8&color=239120&style=for-the-badge&logo=c-sharp)
 ![C++](https://img.shields.io/static/v1?label=C%2B%2B&message=17&color=00599C&style=for-the-badge&logo=C%2B%2B)
+![CMake](https://img.shields.io/static/v1?label=CMake&message=3.18&color=064F8C&style=for-the-badge&logo=cmake)
 
 ### Libraries || Frameworks I use
 
