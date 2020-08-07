@@ -28,6 +28,8 @@ And many, many more projects that you can find by exploring [`my repositories`]!
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Generating Doxygen Documentation using CMake Functions](https://quantumlytangled.com/generating-doxygen-documentation-using-cmake-functions/)
+- [Generating Doxygen Documentation for C++ using CMake](https://quantumlytangled.com/generating-doxygen-documentation-for-cpp-using-cmake/)
 <!-- BLOG-POST-LIST:END -->
 
 #### Some Cool Statistics
