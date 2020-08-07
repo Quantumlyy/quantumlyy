@@ -26,6 +26,9 @@ And many, many more projects that you can find by exploring [`my repositories`]!
 ![Docker](https://img.shields.io/static/v1?label=Docker&message=🐳&color=4285F4&style=for-the-badge&logo=docker)
 ![GraphQL](https://img.shields.io/static/v1?label=GraphQL&message=🦄&color=e535ab&style=for-the-badge&logo=graphql)
 
+# Blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 #### Some Cool Statistics
 
