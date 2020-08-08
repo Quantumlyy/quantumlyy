@@ -64,5 +64,5 @@ And many, many more projects that you can find by exploring [`my repositories`]!
 [`my repositories`]:     https://github.com/quantumlytangled?tab=repositories
 
 <!--------------- Teams ----------------->
-[`PenguBot`]:            https://github.com/GAwesomeBot
+[`PenguBot`]:            https://github.com/PenguBot
 
