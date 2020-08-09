@@ -54,7 +54,7 @@ And many, many more projects that you can find by exploring [`my repositories`]!
   <i>Let's connect and chat! Open to anyone on Earth under the Sun and Moon.</i>
 
   <p align="center">
-    <a href="https://twitter.com/quantumlytngld" alt="Twitter" target="_blank"><img src="https://github.com/quantumlytangled/quantumlytangled/blob/maih/assets/twitter.png"></a>
+    <a href="https://twitter.com/quantumlytngld" alt="Twitter" target="_blank"><img src="https://github.com/quantumlytangled/quantumlytangled/blob/main/assets/twitter.png"></a>
     <a href="https://www.linkedin.com/in/nejc-drobnic" alt="Linkedin" target="_blank"><img src="https://github.com/quantumlytangled/quantumlytangled/blob/main/assets/linkedin.png"></a>
     <a href="https://github.com/quantumlytangled" alt="GitHub" target="_blank"><img src="https://github.com/quantumlytangled/quantumlytangled/blob/main/assets/github.png"></a>
 
