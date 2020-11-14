@@ -44,7 +44,7 @@ And many, many more projects that you can find by exploring [`my repositories`]!
       <img align="left" src="https://github-readme-stats.quantumlytangled.vercel.app/api/?username=quantumlytangled&show_icons=true&title_color=4F8CC9&text_color=9f9f9f&bg_color=151515&hide_border=true&icon_color=4F8CC9&hide_title=true&count_private=true" />
     </td>
     <td align="center">
-      <img align="left" src="https://github-readme-stats.quantumlytangled.vercel.app/api/top-langs/?username=quantumlytangled&layout=compact&title_color=4F8CC9&text_color=9f9f9f&bg_color=151515&hide_border=true&icon_color=4F8CC9&count_private=false&extra=skyra-project/skyra,outflux,skyra-sharp,aurora;pengubot/bot,firebird;novelrt/novelrt,Touhou-NovelRT;lowlevelscript/wyvern,branding;chartanime/akabane;modqly/gravekeeper;NoVariableGlobal/global-engine;JustAnotherEvilGameStudio/NoNameVisualNovel,CirclesGalore" />
+      <img align="left" src="https://github-readme-stats.quantumlytangled.vercel.app/api/top-langs/?username=quantumlytangled&layout=compact&title_color=4F8CC9&text_color=9f9f9f&bg_color=151515&hide_border=true&icon_color=4F8CC9&count_private=true&extra=skyra-project/skyra,outflux,skyra-sharp,aurora;pengubot/bot-sapphire,firebird,worker;novelrt/NovelRT;lowlevelscript/wyvern,branding;chartanime/akabane,chartani.me;modqly/gravekeeper;JustAnotherEvilGameStudio/NoNameVisualNovel,CirclesGalore;bytersproject/brokers.js,quartz,bitters,intern,node-http-lib-benchmarks" />
     </td>
   </tr>
 </table>
