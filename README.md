@@ -41,10 +41,10 @@ And many, many more projects that you can find by exploring [`my repositories`]!
 <table>
   <tr>
     <td align="center">
-      <img align="left" src="https://github-readme-stats.quantumlytangled.vercel.app/api/?username=quantumlytangled&show_icons=true&title_color=4F8CC9&text_color=9f9f9f&bg_color=151515&hide_border=true&icon_color=4F8CC9&hide_title=true&count_private=true" />
+      <img align="left" src="https://grs.quantumly.dev/api/?username=quantumlytangled&show_icons=true&title_color=4F8CC9&text_color=9f9f9f&bg_color=151515&hide_border=true&icon_color=4F8CC9&hide_title=true&count_private=true" />
     </td>
     <td align="center">
-      <img align="left" src="https://github-readme-stats.quantumlytangled.vercel.app/api/top-langs/?username=quantumlytangled&layout=compact&title_color=4F8CC9&text_color=9f9f9f&bg_color=151515&hide_border=true&icon_color=4F8CC9&count_private=true&extra=skyra-project/skyra,outflux,skyra-sharp,aurora;pengubot/bot-sapphire,firebird,Worker,bot,refine;novelrt/NovelRT;lowlevelscript/wyvern,branding;chartanime/akabane,chartani.me;JustAnotherEvilGameStudio/NoNameVisualNovel,CirclesGalore;bytersproject/brokers.js,quartz,bitters,intern,node-http-lib-benchmarks,erikusuaa" />
+      <img align="left" src="https://grs.quantumly.dev/api/top-langs/?username=quantumlytangled&layout=compact&title_color=4F8CC9&text_color=9f9f9f&bg_color=151515&hide_border=true&icon_color=4F8CC9&count_private=true&extra=skyra-project/skyra,outflux,skyra-sharp,aurora;pengubot/bot-sapphire,firebird,Worker,bot,refine;novelrt/NovelRT;lowlevelscript/wyvern,branding;chartanime/akabane,chartani.me;JustAnotherEvilGameStudio/NoNameVisualNovel,CirclesGalore;bytersproject/brokers.js,quartz,bitters,intern,node-http-lib-benchmarks,erikusuaa" />
     </td>
   </tr>
 </table>
