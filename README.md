@@ -30,12 +30,6 @@ And many, many more projects that you can find by exploring [`my repositories`]!
 ![Docker](https://img.shields.io/static/v1?label=Docker&message=🐳&color=4285F4&style=for-the-badge&logo=docker)
 ![GraphQL](https://img.shields.io/static/v1?label=GraphQL&message=🦄&color=e535ab&style=for-the-badge&logo=graphql)
 
-### Blog posts
-<!-- BLOG-POST-LIST:START -->
-- [Generating Doxygen Documentation using CMake Functions](https://quantumlytangled.com/generating-doxygen-documentation-using-cmake-functions/)
-- [Generating Doxygen Documentation for C++ using CMake](https://quantumlytangled.com/generating-doxygen-documentation-for-cpp-using-cmake/)
-<!-- BLOG-POST-LIST:END -->
-
 ### Some Cool Statistics
 
 <table>
