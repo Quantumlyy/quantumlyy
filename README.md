@@ -49,7 +49,6 @@ bytersproject
   - brokers.js
   - quartz
   - intern
-  - erikusuaa
 waifusion
   - contracts
   - waifusion-site
@@ -69,7 +68,7 @@ Pengulets
       <img align="left" src="https://grs.quantumly.dev/api/?username=quantumlytangled&show_icons=true&title_color=4F8CC9&text_color=9f9f9f&bg_color=151515&hide_border=true&icon_color=4F8CC9&hide_title=true&count_private=true" />
     </td>
     <td align="center">
-      <img align="left" src="https://grs.quantumly.dev/api/top-langs/?username=quantumlytangled&layout=compact&title_color=4F8CC9&text_color=9f9f9f&bg_color=151515&hide_border=true&icon_color=4F8CC9&count_private=true&extra=pengubot/bot-sapphire,firebird,Worker,bot,refine;novelrt/NovelRT;lowlevelscript/wyvern,branding;JustAnotherEvilGameStudio/NoNameVisualNovel,CirclesGalore;bytersproject/brokers.js,quartz,intern,erikusuaa;waifusion/contracts,waifusion-site;PackupApp/contracts;Pengulets/metagen,archive,contracts,metadata,Igloo" />
+      <img align="left" src="https://grs.quantumly.dev/api/top-langs/?username=quantumlytangled&layout=compact&title_color=4F8CC9&text_color=9f9f9f&bg_color=151515&hide_border=true&icon_color=4F8CC9&count_private=true&extra=pengubot/bot-sapphire,firebird,Worker,bot,refine;novelrt/NovelRT;lowlevelscript/wyvern,branding;JustAnotherEvilGameStudio/NoNameVisualNovel,CirclesGalore;bytersproject/brokers.js,quartz,intern;waifusion/contracts,waifusion-site;PackupApp/contracts;Pengulets/metagen,archive,contracts,metadata,Igloo" />
     </td>
   </tr>
 </table>
