@@ -24,7 +24,7 @@ And many, many more projects that you can find by exploring [`my repositories`]!
 ![Rider](https://img.shields.io/static/v1?label=Rider&message=2020.2%20EAP9&style=for-the-badge&color=000000&logo=intellij-idea)
 ![CLion](https://img.shields.io/static/v1?label=CLion&message=2020.2&style=for-the-badge&color=000000&logo=intellij-idea)
 ![DataGrip](https://img.shields.io/static/v1?label=DataGrip&message=2020.2&style=for-the-badge&color=000000&logo=intellij-idea)
-![Github](https://img.shields.io/static/v1?label=GitHub&message=quantumlytangled&color=181717&style=for-the-badge&logo=github)
+![Github](https://img.shields.io/static/v1?label=GitHub&message=quantumlyy&color=181717&style=for-the-badge&logo=github)
 ![Docker](https://img.shields.io/static/v1?label=Docker&message=🐳&color=4285F4&style=for-the-badge&logo=docker)
 ![GraphQL](https://img.shields.io/static/v1?label=GraphQL&message=🦄&color=e535ab&style=for-the-badge&logo=graphql)
 
@@ -65,10 +65,10 @@ Pengulets
 <table>
   <tr>
     <td align="center">
-      <img align="left" src="https://grs.quantumly.dev/api/?username=quantumlytangled&show_icons=true&title_color=4F8CC9&text_color=9f9f9f&bg_color=151515&hide_border=true&icon_color=4F8CC9&hide_title=true&count_private=true" />
+      <img align="left" src="https://grs.quantumly.dev/api/?username=quantumlyy&show_icons=true&title_color=4F8CC9&text_color=9f9f9f&bg_color=151515&hide_border=true&icon_color=4F8CC9&hide_title=true&count_private=true" />
     </td>
     <td align="center">
-      <img align="left" src="https://grs.quantumly.dev/api/top-langs/?username=quantumlytangled&layout=compact&title_color=4F8CC9&text_color=9f9f9f&bg_color=151515&hide_border=true&icon_color=4F8CC9&count_private=true&extra=pengubot/bot-sapphire,firebird,Worker,bot,refine;novelrt/NovelRT;lowlevelscript/wyvern,branding;JustAnotherEvilGameStudio/NoNameVisualNovel,CirclesGalore;bytersproject/brokers.js,quartz,intern;waifusion/contracts,waifusion-site;PackupApp/contracts;Pengulets/metagen,archive,contracts,metadata,Igloo" />
+      <img align="left" src="https://grs.quantumly.dev/api/top-langs/?username=quantumlyy&layout=compact&title_color=4F8CC9&text_color=9f9f9f&bg_color=151515&hide_border=true&icon_color=4F8CC9&count_private=true&extra=pengubot/bot-sapphire,firebird,Worker,bot,refine;novelrt/NovelRT;lowlevelscript/wyvern,branding;JustAnotherEvilGameStudio/NoNameVisualNovel,CirclesGalore;bytersproject/brokers.js,quartz,intern;waifusion/contracts,waifusion-site;PackupApp/contracts;Pengulets/metagen,archive,contracts,metadata,Igloo" />
     </td>
   </tr>
 </table>
@@ -78,9 +78,9 @@ Pengulets
   <i>Let's connect and chat! Open to anyone on Earth under the Sun and Moon.</i>
 
   <p align="center">
-    <a href="https://twitter.com/quantumlytngld" alt="Twitter" target="_blank"><img src="https://github.com/quantumlytangled/quantumlytangled/blob/main/assets/twitter.png"></a>
-    <a href="https://www.linkedin.com/in/nejc-drobnic" alt="Linkedin" target="_blank"><img src="https://github.com/quantumlytangled/quantumlytangled/blob/main/assets/linkedin.png"></a>
-    <a href="https://github.com/quantumlytangled" alt="GitHub" target="_blank"><img src="https://github.com/quantumlytangled/quantumlytangled/blob/main/assets/github.png"></a>
+    <a href="https://twitter.com/quantumlytngld" alt="Twitter" target="_blank"><img src="https://github.com/quantumlyy/quantumlyy/blob/main/assets/twitter.png"></a>
+    <a href="https://www.linkedin.com/in/nejc-drobnic" alt="Linkedin" target="_blank"><img src="https://github.com/quantumlyy/quantumlyy/blob/main/assets/linkedin.png"></a>
+    <a href="https://github.com/quantumlyy" alt="GitHub" target="_blank"><img src="https://github.com/quantumlyy/quantumlyy/blob/main/assets/github.png"></a>
 
   </p>
   
@@ -89,7 +89,7 @@ Pengulets
 <!----------------- LINKS --------------->
 [`GitHub Readme Stats`]: https://github.com/anuraghazra/github-readme-stats
 [`Discord`]:             https://discord.com/
-[`my repositories`]:     https://github.com/quantumlytangled?tab=repositories
+[`my repositories`]:     https://github.com/quantumlyy?tab=repositories
 
 <!--------------- Teams ----------------->
 [`PenguBot`]:            https://github.com/PenguBot
