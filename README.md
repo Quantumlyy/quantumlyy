@@ -1,6 +1,8 @@
 ## Projects
 
 - :robot: [`PenguBot`] - a multi-purpose [`Discord`] bot with powerful music, social profiles, economy, moderation, fun, utility and much, much more!
+- [`Waifusion`] - Set of 16384 uniquely generated digital waifu NFT collectibles on the Ethereum blockchain.
+- [`UwUCrew`] - A collection of 9670 unique PFP NFTs on the Ethereum blockchain.
 
 And many, many more projects that you can find by exploring [`my repositories`]!
 
@@ -35,8 +37,6 @@ pengubot
   - Worker
   - bot
   - refine
-novelrt
-  - NovelRT
 lowlevelscript
   - wyvern
   - branding
@@ -50,6 +50,7 @@ bytersproject
 waifusion
   - contracts
   - waifusion-site
+  - v2
 PackupApp
   - contracts
 Pengulets
@@ -64,18 +65,21 @@ SportajGa
   - sportaj.ga
   - deploy
   - actions.sportaj.ga
+  - old.sportaj.ga
 s3r5-robotics
-  - CoSpace-2022
   - CoSpace-Nim
   - SimulationDemonstration-2021-MiniChallenge
   - RescueMaze-2021
   - CheatEngine
   - Maze-2021-Pi
-  - CoSpace-2021
-  - CoSpace-2021-3
+  - Maze-2022-Movement
 Twyy
   - erikusuaa
   - termium
+flinkcoin
+  - token
+mbigrae
+  - contracts
 -->
 
 <table>
@@ -84,7 +88,7 @@ Twyy
       <img align="left" src="https://grs.quantumly.dev/api/?username=quantumlyy&show_icons=true&title_color=4F8CC9&text_color=9f9f9f&bg_color=151515&hide_border=true&icon_color=4F8CC9&hide_title=true&count_private=true" />
     </td>
     <td align="center">
-      <img align="left" src="https://grs.quantumly.dev/api/top-langs/?username=quantumlyy&layout=compact&title_color=4F8CC9&text_color=9f9f9f&bg_color=151515&hide_border=true&icon_color=4F8CC9&count_private=true&extra=pengubot/Worker,bot,refine;novelrt/NovelRT;lowlevelscript/wyvern,branding;JustAnotherEvilGameStudio/NoNameVisualNovel,CirclesGalore;bytersproject/brokers.js,quartz,intern;waifusion/contracts,waifusion-site;PackupApp/contracts;Pengulets/metagen,archive,contracts,metadata,Igloo;LSSRP/lssrp;SportajGa/sportaj.ga,deploy,actions.sportaj.ga;s3r5-robotics/CoSpace-2022,CoSpace-Nim,SimulationDemonstration-2021-MiniChallenge,RescueMaze-2021,CheatEngine,Maze-2021-Pi,CoSpace-2021,CoSpace-2021-3;Twyy/erikusuaa,termium" />
+      <img align="left" src="https://grs.quantumly.dev/api/top-langs/?username=quantumlyy&layout=compact&title_color=4F8CC9&text_color=9f9f9f&bg_color=151515&hide_border=true&icon_color=4F8CC9&count_private=true&extra=pengubot/Worker,bot,refine;lowlevelscript/wyvern,branding;JustAnotherEvilGameStudio/NoNameVisualNovel,CirclesGalore;bytersproject/brokers.js,quartz,intern;waifusion/contracts,waifusion-site,v2;PackupApp/contracts;Pengulets/metagen,archive,contracts,metadata,Igloo;LSSRP/lssrp;SportajGa/sportaj.ga,deploy,actions.sportaj.ga,actions.sportaj.ga;s3r5-robotics/CoSpace-Nim,SimulationDemonstration-2021-MiniChallenge,RescueMaze-2021,CheatEngine,Maze-2021-Pi,Maze-2022-Movement;Twyy/erikusuaa,termium;flinkcoin/token;mbigrae/contracts" />
     </td>
   </tr>
 </table>
@@ -109,4 +113,5 @@ Twyy
 
 <!--------------- Teams ----------------->
 [`PenguBot`]:            https://github.com/PenguBot
-
+[`Waifusion`]:           https://github.com/waifusion
+[`UwUCrew`]:             https://github.com/waifusion
