@@ -21,10 +21,8 @@ And many, many more projects that you can find by exploring [`my repositories`]!
 ### Tech I use
 
 ![VSCode](https://img.shields.io/static/v1?label=VSCode&message=1.48-insider&style=for-the-badge&color=1FC0A7&logo=visual-studio-code)
-![Visual Studio](https://img.shields.io/static/v1?label=Visual%20Studio&message=2019%20Enterprise&style=for-the-badge&color=5C2D91&logo=visual-studio)
 ![IntelliJ](https://img.shields.io/static/v1?label=IntelliJ&message=2020.2&style=for-the-badge&color=000000&logo=intellij-idea)
 ![Rider](https://img.shields.io/static/v1?label=Rider&message=2020.2%20EAP9&style=for-the-badge&color=000000&logo=intellij-idea)
-![CLion](https://img.shields.io/static/v1?label=CLion&message=2020.2&style=for-the-badge&color=000000&logo=intellij-idea)
 ![DataGrip](https://img.shields.io/static/v1?label=DataGrip&message=2020.2&style=for-the-badge&color=000000&logo=intellij-idea)
 ![Github](https://img.shields.io/static/v1?label=GitHub&message=quantumlyy&color=181717&style=for-the-badge&logo=github)
 ![Docker](https://img.shields.io/static/v1?label=Docker&message=🐳&color=4285F4&style=for-the-badge&logo=docker)
